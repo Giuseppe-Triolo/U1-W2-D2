@@ -1,1 +1,1 @@
-Js intro - ElseIf - Arrays 
+Js intro - Else If - Arrays 
